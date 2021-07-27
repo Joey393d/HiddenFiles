@@ -1,0 +1,30 @@
+* {
+    outline: dashed purple;
+}
+
+body{
+    margin: 0 auto;
+    width: 1000px;
+    background-color: cadetblue;
+}
+
+main{
+    background-color: coral;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+header {
+ margin-bottom: 20px
+}
+
+ul li {
+    display: inline;
+    padding: 10px;
+    background-color: darkgrey;
+    border-radius: 15px;
+}
+
+ol li {
+    background-color: darkmagenta;
+}
